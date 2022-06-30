@@ -8,7 +8,7 @@
 
 # II. Hướng dẫn sử dụng:
 
-- B1: Tải Github này dưới dạng file ZIP tại https://github.com/JTNghia/CS105.M21.KHCL
+- B1: Tải [Github này](https://github.com/JTNghia/CS105.M21.KHCL) dưới dạng file ZIP
 
 - B2: Giải nén file:"CS105.M21.KHCL-main.zip" 
 
