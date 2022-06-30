@@ -1,4 +1,6 @@
 # I. Hướng dẫn cài đặt:
+Click vào link sau để sử dụng ngay: https://jtnghia.github.io/CS105.M21.KHCL/
+Hoặc tiếp tục quá trình cài đặt.
 
 - B1: Cài đặt [Visual Studio Code](https://code.visualstudio.com/download).
 
