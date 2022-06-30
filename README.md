@@ -4,7 +4,6 @@
 
 - B2: Cài đặt Live Sever extension tại Extension trong Visual Studio Code.
 
-- Hoặc click vào link sau để sử dụng ngay: https://jtnghia.github.io/CS105.M21.KHCL/
 
 # II. Hướng dẫn sử dụng:
 
